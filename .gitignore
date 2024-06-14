@@ -2,7 +2,9 @@
 
 !.gitignore
 !Config
+!Config/*
 !Content
+!Content/*
 !RV.uproject
 !plugins
 !source
