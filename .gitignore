@@ -1,11 +1,5 @@
-*
-
-!.gitignore
-!Config
-!Config/*
-!Content
-!Content/*
-!RV.uproject
-!plugins
-!source
-!README.md
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
