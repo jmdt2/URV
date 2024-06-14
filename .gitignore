@@ -1,8 +1,9 @@
 *
 
 !.gitignore
-!config
-!content
-!*.uproject
+!Config
+!Content
+!RV.uproject
 !plugins
 !source
+!README.md
